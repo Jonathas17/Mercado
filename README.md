@@ -22,7 +22,7 @@
 
  Python 3
 
-📸 Exemplo de Uso
+# 📸 Exemplo de Uso
 
 <img width="1918" height="1033" alt="Captura de tela 2025-08-30 130147" src="https://github.com/user-attachments/assets/f85d18e5-4bd2-49f7-9877-ae0738048d41" />
 
